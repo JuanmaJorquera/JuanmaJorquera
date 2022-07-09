@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanmaJorquera
 - 👀 I’m interested in starting my new career in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on tech companies projects
+- 💞️ I’m looking to collaborate with tech companies and get involved with their projects
 - 📫 How to reach me: github or email, jmjorquera21@gmail.com
 
 <!---
